@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PoloniexUpdater</string>
+    <string name="kitty_text">Some cute kitty to make app look better :)</string>
+    <string name="last_template">Last: %s</string>
+    <string name="highest_bid_template">Highest bid: %s</string>
+    <string name="percent_change_template">Percent change: %s</string>
+</resources>

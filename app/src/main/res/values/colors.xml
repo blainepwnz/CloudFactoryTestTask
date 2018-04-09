@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appBackground">#f5f5f5</color>
+    <color name="error">@color/red</color>
+
+    <!--  APP: -->
+    <color name="silver">#BDBDBD</color>
+    <color name="curious_blue">#15AEE9</color>
+    <color name="yellow_light">#FEE499</color>
+    <color name="blue_easy">#3366CC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_gray">#07000000</color>
+    <color name="black">#000000</color>
+    <color name="half_black">#80000000</color>
+    <color name="gray_very_dark">#222</color>
+    <color name="gray">#808080</color>
+    <color name="gray_medium">#aaaaaa</color>
+    <color name="gray_light">#dadada</color>
+    <color name="gray_dark_2">#5B5E62</color>
+    <color name="gray_2">#b4b6b8</color>
+    <color name="gray_disable">#96E0E0E0</color>
+    <color name="gray_very_light">#F0F0F0</color>
+    <color name="material_gray">#EEEEEE</color>
+    <color name="red">#EE333F</color>
+    <color name="accent_chat">#d41f6d</color>
+    <color name="black_shadow">#7e2a3138</color>
+    <color name="black_shadow_dark">#e31a1c1e</color>
+    <color name="transparent">#00000000</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="green">#00b22d</color>
+    <color name="cerulean">#04aded</color>
+    <color name="DeepSkyBlue">#009EDB</color>
+    <color name="picton_blue">#33B1E2</color>
+    <color name="disabled">@color/gray_light</color>
+    <color name="create_ride_background">#f4f4f4</color>
+    <color name="blue_tab_underline">#00a0de</color>
+    <color name="gray_tab">#9c9c9c</color>
+    <color name="gray_community">#e4e4e4</color>
+    <color name="green_road">#25BF73</color>
+    <color name="warm_grey">#777777</color>
+    <color name="cerulean_two">#009ed8</color>
+    <color name="cerulean_two_dark">#009ed8</color>
+    <color name="white_dark">#eeeeee</color>
+    <color name="cerulean_three">#009fde</color>
+    <color name="warm_grey_two">#999999</color>
+    <color name="warm_grey_three">#9a9a9a</color>
+    <color name="tab_press">#DDDDDD</color>
+    <color name="tab_past">#F5F5F7</color>
+    <color name="pink">#FC3C6C</color>
+    <color name="mine_shaft">#222222</color>
+
+</resources>
